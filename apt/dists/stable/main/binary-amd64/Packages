@@ -1,0 +1,32 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("C.UTF-8").
+Package: pullrun
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Mohammed Boukaba <mo.boukaba@gmail.com>
+Filename: pool/main/p/pullrun/pullrun_0.1.0_amd64.deb
+Size: 13835218
+MD5sum: 72125f9409622009e8ed0e511d586513
+SHA1: f7a9a3880b6f03186a76811ac96fd352e4142cf0
+SHA256: fd7ddfe3b91961e7361de046fc03c792e0e24f0c196312561aa5fd8397c65b15
+Section: utils
+Priority: optional
+Homepage: https://github.com/pullrun/pullrun
+Description: Next-gen container runtime with zero-copy DAG storage and P2P image sync
+ A content-addressed workload execution system. Run OCI images as Linux
+ containers (runc), Firecracker microVMs, or Apple Silicon VMs.
+ .
+ Features:
+  - Zero-copy DAG store with rkyv + memmap2
+  - P2P block sync across nodes (Bloom filter + gRPC)
+  - Native Dockerfile build engine (no Docker required)
+  - Compose support (up/down/logs/build)
+  - Encrypted secrets (AES-256-GCM) and configs
+
+dpkg-scanpackages: info: Wrote 1 entries to output Packages file.
