@@ -5,40 +5,40 @@ Origin: pullrun
 Label: pullrun APT Repository
 Suite: stable
 Codename: stable
-Date: $(date -Ru)
+Date: Fri, 12 Jun 2026 08:48:56 +0000
 Architectures: amd64
 Components: main
 Description: pullrun APT repository — Debian/Ubuntu packages
-Date: Fri, 12 Jun 2026 08:44:57 +0000
+Date: Fri, 12 Jun 2026 08:48:56 +0000
 MD5Sum:
- d19b5d06c99405a4b35dc9b24ee600d1              234 Release
- aac4a04e595254fd063fa79e2e87206b             1241 main/binary-amd64/Packages
- 5217ea232d9c9ef97221978dc1bcebbe              808 main/binary-amd64/Packages.gz
+ 2939932440ca895e639af7dd4e9f8a96              254 Release
+ 7c8cfaf40befd87139a2c97ed1e68f9b              893 main/binary-amd64/Packages
+ 0f27d552ec1b228e67e92b378bfca439              624 main/binary-amd64/Packages.gz
 SHA1:
- e0150c06d2b35b7c09199d01188a7ef2f0e21547              234 Release
- 8d6b369c44929d1351a1693a848d0fc8c44b4968             1241 main/binary-amd64/Packages
- 511bba73d480b70f3e3fa19f6f82c1540e5a47a0              808 main/binary-amd64/Packages.gz
+ caa2ed9a8c325a19633e53557d5383625204d71e              254 Release
+ d35be804b18bd7b75394e045e7eed1d2f9bd62f1              893 main/binary-amd64/Packages
+ 36bc59e7f4379809e3c006763f2f8ab856b57897              624 main/binary-amd64/Packages.gz
 SHA256:
- 2cb38d5b9d3672a08b17da35598d38dd3f6932cd3e3baafe9dce573c1477f5f8              234 Release
- 6fba52cb85ba28687dc46566e829081f0c07ac5f443109222df18e472523b9d9             1241 main/binary-amd64/Packages
- 7c7034d951ca15c89cf1425d362bc5eadd864b7f4be5ec5e84f61dfff2ace888              808 main/binary-amd64/Packages.gz
+ a564c4c35df63485bd43333a7f7c0f49c6d55710e666fc42bd76b9aefac80123              254 Release
+ b25fedec75b9c576b16ba174c918a473a3f8837fe0fe1e8de75e94e4c32ea6fb              893 main/binary-amd64/Packages
+ 80743c0c893be15d13791f905a84390c61900634d99db55e98a461b114eff4a6              624 main/binary-amd64/Packages.gz
 SHA512:
- 6940dd0c84d936c8031834958750e4f601b2883ec47248796f3f51896d40e30fa39fe210d90b358f4615b101509c0383d1eb3d37516f2257bcc689daaa1357b1              234 Release
- 6a0dae047d1c6cd3b9479ca1bfef3bf84c70c7606f91d515e6ffe9b0b7f4fef166dc2970d9268f477365ed7e590f68ab9f4edb22b03dc2094953472113953d66             1241 main/binary-amd64/Packages
- d240c935669d8e7c51d5af7d80de2d2b954bc881d6dbd01219525771a2c28b1c9ae3b8bde35d9ffa3231ffa8d8db7ce4f5e7ab1ba70e651ae3b05d3115161209              808 main/binary-amd64/Packages.gz
+ 0d6175335b7dde5e8776fdea359a3dda3b35dfc45fe76b290100c936382b75fac3a32b72ee746b9679fde349d4f6c6cd687f5a4fe0b8a5ff26986fe820fa2c31              254 Release
+ e528fad9a831774b68541e7e1b139129d45b4ffcc83edf4b2da63b8578b05eacb606c652603428222196b98be1ff2d04e0cc6a3c2e08e30936da591368881da6              893 main/binary-amd64/Packages
+ bfe9fe5353958af89f2fb01af0c658938d7b394183c00723f39e8bc28b875c58e9f9706ddbdc90e40087a02d30d36b9e8e0512ca5db4482816f2a6df38839f94              624 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEFLWBNQWFF9txIt6azEEQGQgkdGoFAmorxwkACgkQzEEQGQgk
-dGpL8RAA20bpFnVhjoZ8ARuMdOsX+ev7rTdocm1kXGz1M45EmYr70fO+qIKqHBto
-EDU9apWf9zg25JXjPIiJivlVRH2epbGwdc5+IHOrUGi9Iy8aTeOzeQpmk+Tz2EUg
-BjWON0eRPl/BW3XMRAw3lAhHv15j7bbkO8B6c68oyluDYMQElCl3OgNb5wVCsNIm
-J+j7DAB64AYhVEKV9dqfL5+5+dcOsxgnA7RdYZ9YEfp6sOew7CV8ZHhBb+I3QU7b
-KBcCOTvpR5aRaA3+yruynC3VZzZFt7c0u5GCKIi9XRI5Luh6kfMjCdi8+AepW9k+
-aI07DQp2tzVEQwJYvKdTUfASivwNONST7w3wGvLqmDgGEnbuultVn5u5lH/qen1J
-A6ozZXo6QYAMhM1E4SuLzL0tSjUnU53CXgXIGFuPs0Jtb6nlGWL49Pz7VWP/YhP/
-eSh/f6i6XPCtkkzlGd8RWkRx1xAp8cRMXpJNivICX75FWG2ugfailcHDogplcpEj
-4WEk17tr0Q3yNzUKmJdf+fi5y5OV4C65vZkXQLADuxZAP9A2JCbOxrQG9ClfITAc
-kLJ5PtQUP/TURVb/IYoie3wrpo6ndvR8UxvKpMAy/EHqcDUs6SxB2Kb9InazQ01+
-dETiY2VsLGmHX78t4bZgYgkUPaRDGywqdMJCuQaagBOVnPfiJOs=
-=mt+o
+iQIzBAEBCgAdFiEEFLWBNQWFF9txIt6azEEQGQgkdGoFAmorx/gACgkQzEEQGQgk
+dGpuTxAAnn9+pu61z6f14nUTh8iaHBkqvSY69ktTxMwPrDA85NjrVxiUwTAfeM/h
+zgzKbl69w9zFKpxy6Vs0BZDs+EO3jFvUSGmfwNvYp23kJ3vmObdQbJhWpCw8NvuW
+pLlPJ3Vkp+zMPklxN+yAV/C6tuPNLBBFHTwnUfeJcqluaOUkq1yzEeoVNFZX6Gj0
+7D/WrAdRERPsTdmts2puPLQ9GR963Wzy5dckS0uckFp11hAOnTUE0+cM82BMRK+0
+Fg/fomy51fZ0ZqD9OJuKqIZ6TAQOBvKchjYzWd2Q8OUDGJ6MuXUHhKHAdbLjpQ3U
+2Yp1jBZ2zwKMw8aZYGMCuPYwiDZmSX7rI2KIrQZ6mmLAb2g+9SL3jIoeuPGQaJf1
+OlcmelMe/1Y92MnonIYefDjyc8kHXprV4izd+Jv5kpYf1qPswXl7Jv1ashELLwsF
+2oKUf+u351uDGvXkD0dQcdYtri7uHMHi5IIAvUQPHI+R7+iLVHOMZHED2yUqOaNJ
+5M4WilxB/7tgLtn84nZ+ngl2ASCpNDnI/b/HccvRxQgGPM7LqMaWSkkkseMXrnK7
+LBdlsW0/0mEJd1xbud7wh3ukqeY9JmtCEo2pi7fz/5bFnQUPKCRJsbXKzOgiCs8T
+OiAUYZf2m5KbLIC4C18L87xp2RD9Vn2UGOxJWk21uPkCWOL+xMc=
+=6EQa
 -----END PGP SIGNATURE-----

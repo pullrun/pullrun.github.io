@@ -1,11 +1,3 @@
-perl: warning: Setting locale failed.
-perl: warning: Please check that your locale settings:
-	LANGUAGE = (unset),
-	LC_ALL = (unset),
-	LC_CTYPE = "UTF-8",
-	LANG = "C.UTF-8"
-    are supported and installed on your system.
-perl: warning: Falling back to a fallback locale ("C.UTF-8").
 Package: pullrun
 Version: 0.1.0
 Architecture: amd64
@@ -29,4 +21,3 @@ Description: Next-gen container runtime with zero-copy DAG storage and P2P image
   - Compose support (up/down/logs/build)
   - Encrypted secrets (AES-256-GCM) and configs
 
-dpkg-scanpackages: info: Wrote 1 entries to output Packages file.
